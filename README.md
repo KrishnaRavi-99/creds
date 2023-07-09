@@ -1,5 +1,6 @@
 # creds
 A collection of my degrees and certifications
+
 Bachelor's Degrees:
 - Electrical Engineering and Computer Sciences: UC Berkeley College of Engineering
 - Data Science: UC Berkeley College of Letters and Sciences
