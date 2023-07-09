@@ -1,3 +1,4 @@
 To validate:
-- Navigate to : 
-- Enter credential id: 
+- Navigate to: https://registrar.berkeley.edu/credential-validation/
+- Enter credential id: 225F-RA4C-KDI9 (EECS), 22H0-AFZF-K0IW (Data)
+- First 2 letters of name: KR
