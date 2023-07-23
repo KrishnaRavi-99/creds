@@ -7,3 +7,6 @@ Bachelor's Degrees:
 
 Certifications:
 - Certificate of Entrepreneurship and Technology: UC Berkeley Sutardja Center for Entrepreneurship and Technology
+
+Honors/Awards:
+- Invitation to UC Berkeley's 2022 Data Science Honors Symposium
